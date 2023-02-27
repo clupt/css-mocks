@@ -9,6 +9,8 @@ body {
   width: 400px;
   height: 400px;
   background-color: red;
+  transform: rotate(180deg);
+  position: relative;
 }
 
 .two {
@@ -21,6 +23,9 @@ body {
   width: 200px;
   height: 200px;
   background-color: green;
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 
 .four {
