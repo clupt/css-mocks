@@ -21,6 +21,11 @@ body {
   width: 200px;
   height: 200px;
   background-color: green;
+  position: fixed;
+  left: 405px;
+  top: 205px;
+  display: flex;
+  align-items: end;
 }
 
 .four {
